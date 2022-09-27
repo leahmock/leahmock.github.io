@@ -16,11 +16,14 @@ p {
   color: #660000;
   padding: 10px 25px; 
 }
- 
+
+table {
+  padding: 10px 25px;
+}
+
 table, tr, td {
   border: 4px #660000;
   border-collapse: collapse;
-  padding: 10px 25px;
 }
   
 img {
