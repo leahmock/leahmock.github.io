@@ -18,7 +18,8 @@ p {
 }
  
 table, tr, td {
-  color: #660000;
+  border: 4px #660000;
+  border-collapse: collapse;
   padding 25px;
 }
   
