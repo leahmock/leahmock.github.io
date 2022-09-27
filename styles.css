@@ -4,28 +4,28 @@ body {
 
 h1 {
   color: #660000;
-  padding: 25px;
+  padding: 10px 25px;
 }
 
 h3 {
   color: #660000;
-  padding: 25px;
+  padding: 10px 25px;
 }
   
 p {
   color: #660000;
-  padding: 25px; 
+  padding: 10px 25px; 
 }
  
 table, tr, td {
   border: 4px #660000;
   border-collapse: collapse;
-  padding: 25px;
+  padding: 10px 25px;
 }
   
 img {
   border: 4px solid #660000;
-  padding: 25px;
+  padding: 10px 25px;
 }
   
     
