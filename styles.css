@@ -20,7 +20,7 @@ p {
 table, tr, td {
   border: 4px #660000;
   border-collapse: collapse;
-  padding 25px;
+  padding: 25px;
 }
   
 img {
